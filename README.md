@@ -1,3 +1,11 @@
-### DemoProject to try out GoblintAnalyzer extension in VSCode
+# Demo project to try out GobPie extension in VSCode
 
-More about analyzer: https://github.com/goblint/analyzer
+Links to related projects:
+* [Goblint analyzer](https://github.com/goblint/analyzer) <br>
+* [GobPie extension for VSCode](https://github.com/goblint/GobPie)
+
+## To try out the extension:
+
+* Install the extension by following the instructions in [GobPie project](https://github.com/goblint/GobPie)
+* Open the demo project in VSCode
+* Try opening different .c files
