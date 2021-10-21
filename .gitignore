@@ -1,0 +1,12 @@
+/target/
+
+.classpath
+
+.project
+
+.settings
+
+.vscode
+
+/incremental_data
+analysisResults.json
