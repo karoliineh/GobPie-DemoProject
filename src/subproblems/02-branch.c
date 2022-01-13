@@ -1,7 +1,8 @@
-#include<stdio.h>
-#include<assert.h>
+#include <stdio.h>
+#include <assert.h>
+#include "02-branch.h"
 
-int main() {
+int branch() {
   int i,j,k;
   int x;
 

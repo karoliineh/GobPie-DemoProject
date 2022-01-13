@@ -1,5 +1,7 @@
 #include <stdio.h>
-int main(){    
+#include "10-nullpointer-dereference-simple.h"
+
+int nullpointer(){    
     int *pi;     // a pointer to an integer
     int *t;
     int a = *t; // WARN

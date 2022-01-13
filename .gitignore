@@ -8,5 +8,7 @@
 
 .vscode
 
+.goblint
+
 /incremental_data
 analysisResults.json

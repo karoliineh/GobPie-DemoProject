@@ -1,0 +1,5 @@
+{
+    "compilationDatabaseDirPath" : "build", 
+    "goblintConfPath" : "goblint.json",
+    "compilationDBBuildCommands" : ["cmake", "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON", "build"]
+}
