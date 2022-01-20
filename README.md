@@ -8,4 +8,4 @@ Links to related projects:
 
 * Install the extension by following the instructions in [GobPie project](https://github.com/goblint/GobPie)
 * Open the demo project in VSCode
-* Try opening different .c files
+* Save any `.c` file to start an analysis
