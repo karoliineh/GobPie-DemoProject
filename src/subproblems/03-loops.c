@@ -1,7 +1,8 @@
-#include<stdio.h>
-#include<assert.h>
+#include <stdio.h>
+#include <assert.h>
+#include "03-loops.h"
 
-int main () {
+int loops() {
   int i,j,k;
 
   i = k = 0; j = 7;

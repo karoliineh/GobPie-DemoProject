@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ubuntu/DemoProject/build",
+  "command": "/usr/bin/cc     -o CMakeFiles/main.dir/src/main.c.o   -c /home/ubuntu/DemoProject/src/main.c",
+  "file": "/home/ubuntu/DemoProject/src/main.c"
+},
+{
+  "directory": "/home/ubuntu/DemoProject/build/src/subproblems",
+  "command": "/usr/bin/cc     -o CMakeFiles/subproblems.dir/01-assert.c.o   -c /home/ubuntu/DemoProject/src/subproblems/01-assert.c",
+  "file": "/home/ubuntu/DemoProject/src/subproblems/01-assert.c"
+},
+{
+  "directory": "/home/ubuntu/DemoProject/build/src/subproblems",
+  "command": "/usr/bin/cc     -o CMakeFiles/subproblems.dir/01-simple_rc.c.o   -c /home/ubuntu/DemoProject/src/subproblems/01-simple_rc.c",
+  "file": "/home/ubuntu/DemoProject/src/subproblems/01-simple_rc.c"
+},
+{
+  "directory": "/home/ubuntu/DemoProject/build/src/subproblems",
+  "command": "/usr/bin/cc     -o CMakeFiles/subproblems.dir/02-branch.c.o   -c /home/ubuntu/DemoProject/src/subproblems/02-branch.c",
+  "file": "/home/ubuntu/DemoProject/src/subproblems/02-branch.c"
+},
+{
+  "directory": "/home/ubuntu/DemoProject/build/src/subproblems",
+  "command": "/usr/bin/cc     -o CMakeFiles/subproblems.dir/03-loops.c.o   -c /home/ubuntu/DemoProject/src/subproblems/03-loops.c",
+  "file": "/home/ubuntu/DemoProject/src/subproblems/03-loops.c"
+},
+{
+  "directory": "/home/ubuntu/DemoProject/build/src/subproblems",
+  "command": "/usr/bin/cc     -o CMakeFiles/subproblems.dir/10-nullpointer-dereference-simple.c.o   -c /home/ubuntu/DemoProject/src/subproblems/10-nullpointer-dereference-simple.c",
+  "file": "/home/ubuntu/DemoProject/src/subproblems/10-nullpointer-dereference-simple.c"
+}
+]
