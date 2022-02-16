@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsubproblems.a  CMakeFiles/subproblems.dir/01-assert.c.o CMakeFiles/subproblems.dir/01-simple_rc.c.o CMakeFiles/subproblems.dir/02-branch.c.o CMakeFiles/subproblems.dir/03-loops.c.o CMakeFiles/subproblems.dir/10-nullpointer-dereference-simple.c.o
-/usr/bin/ranlib libsubproblems.a
