@@ -1,1 +1,1 @@
-int main_branch();
+int branch();
