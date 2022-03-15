@@ -1,18 +1,8 @@
 {
+    "files" : ["./src/example.c"],
     "ana": {
-        "activated": [
-            "base",
-            "mallocWrapper"
-        ],
         "int": {
-            "interval": true,
-            "def_exc": false
-        },
-        "opt": {
-            "hashcons": false
-        },
-        "base": {
-            "privatization": "none"
+            "interval": false
         }
     },
     "incremental": {
@@ -21,26 +11,11 @@
         "wpoint": false,
         "stable": true
     },
-    "exp": {
-        "earlyglobs": true
-    },
     "dbg": {
         "verbose": true,
         "trace": {
             "context": true
         },
         "debug": true
-    },
-    "printstats": true,
-    "result": "none",
-    "solver": "td3",
-    "solvers": {
-        "td3": {
-            "term": true,
-            "space": false,
-            "space_cache": true,
-            "space_restore": true
-        }
-    },
-    "verify": false
+    }
 }
