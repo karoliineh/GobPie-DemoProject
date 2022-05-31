@@ -1,0 +1,23 @@
+{
+    "files" : ["./demo.c"],
+    "ana": {
+        "int": {
+            "interval": false
+        },
+        "activated": ["expRelation", "base", "threadid", "threadflag", "threadreturn",
+            "escape", "mutexEvents", "mutex", "access", "mallocWrapper", "mhp", "symb_locks"]
+    },
+    "incremental": {
+        "load": false,
+        "save": true,
+        "wpoint": false,
+        "stable": true
+    },
+    "dbg": {
+        "verbose": true,
+        "trace": {
+            "context": true
+        },
+        "debug": true
+    }
+}
