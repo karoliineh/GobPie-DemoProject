@@ -16,6 +16,9 @@
         "trace": {
             "context": true
         },
-        "debug": true
+        "debug": false
+    },
+    "warn": {
+        "race": true
     }
 }

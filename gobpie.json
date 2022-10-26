@@ -1,4 +1,5 @@
 {
     "goblintConf" : "goblint.json",
-    "preAnalyzeCommand" : ["cmake", "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON", "-B", "build"]
+    "preAnalyzeCommand" : ["cmake", "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON", "-B", "build"],
+    "showCfg": true
 }
