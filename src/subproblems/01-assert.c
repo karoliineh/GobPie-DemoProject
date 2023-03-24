@@ -1,5 +1,5 @@
-// just a few sanity checks on the asserts
-#include<assert.h>
+// just a few sanity checks on the __goblint_checks
+#include <goblint.h>
 #include "01-assert.h"
 
 int asserts() {
@@ -7,9 +7,9 @@ int asserts() {
   int silence = 1;
   int fail = 0;
   int unknown;
-  assert(success);
-  assert(fail); // FAIL!
-  assert(unknown == 4); // UNKNOWN!
+  __goblint_check(success);
+  __goblint_check(fail); // FAIL!
+  __goblint_check(unknown == 4); // UNKNOWN!
   return 0;
-  assert(silence); // NOWARN!
+  __goblint_check(silence); // NOWARN!
 }
